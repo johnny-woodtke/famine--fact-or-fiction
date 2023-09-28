@@ -2,7 +2,7 @@
 
 ## Introduction and Purpose
 
-While staple foods vary greatly from region to region, just $15$ crops provide $90\%$ of the world's food energy intake, [according to the United Nation's FAO](https://www.fao.org/3/u8480e/U8480E07.htm#Staple%20foods%20What%20do%20people%20eat), with rice, maize, and wheat making up two thirds of this.
+While staple foods vary greatly from region to region, just $15$ crops provide $90\\%$ of the world's food energy intake, [according to the United Nation's FAO](https://www.fao.org/3/u8480e/U8480E07.htm#Staple%20foods%20What%20do%20people%20eat), with rice, maize, and wheat making up two thirds of this.
 
 This is a study on the world's primary staple crops' production, allocation, and loss over time relative to population growth. The goal is to determine whether the world as a whole is better or worse equipped to feed itself.
 
