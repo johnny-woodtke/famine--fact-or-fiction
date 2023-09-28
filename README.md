@@ -40,10 +40,8 @@ The following staple crops are analyzed based on United Nations (UN) Food and Ag
 
 First, production data of all crops is normalized and visualized in nominal tons produced from $1961$ to $2021$. Then, using the UN FAO's world population data from the same time period, all crops' global production per capita are visualized in units of tons per person. Next, average kcal per ton of each staple crop is estimated in order to visualize total kcal per capita produced.
 
-Second, production allocation to humans is accounted for. Thus, data consisting of all crops' production that is allocated to humans is normalized and visualized in nominal tons produced and allocated to humans. Like before, all crops' production and allocation to humans are compared to population growth and visualized in units of tons produced and allocated per capita. Lastly, using the average kcal per ton estimates of each crop previously computed, data consisting of total kcal per capita produced and allocated to humans from $1961$ to $2021$ is visualized. 
+Second, production allocation to humans is accounted for. Thus, data consisting of all crops' production allocated to humans is normalized and visualized in nominal tons. Like before, all crops' production allocated to humans are compared to population growth and visualized in units of tons per capita. Lastly, using the previously computed average kcal per ton estimates for each food, data consisting of total kcal per capita allocated to humans from $1961$ to $2021$ is visualized. 
 
-Additionally, crop loss is accounted for. Like was done for total production and production allocated to humans, nominal loss in tons, tons of loss per capita, and kcal of loss per capita are visualized from $1961$ to $2021$.
+Additionally, crop loss is analyzed. Like was done for total production and production allocated to humans, nominal loss in tons, tons of loss per capita, and kcal of loss per capita are visualized from $1961$ to $2021$.
 
-* Subtract human allocation and loss from total production nominally, tons per capita, and kcal per capita. This represents the maximum size of our buffer (some loss goes unaccounted for): we can take resources from manufacturing, animal production, etc. and feed it to humans if it comes down to it.
-
-This graph, as well as total production per capita in units of kcal per person, are used to determine whether the world is better or worse equipped to feed itself.
+Finally, by subtracting crop loss and allocation to humans from total production, a measure of food security is visualized. This graph represents the crops allocated to manufacturing, meat production, etc., some of which may be allocated to humans in the case of a food shortage.
